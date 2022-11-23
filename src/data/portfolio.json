@@ -1,0 +1,30 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/portfolio1/portfolio.png",
+            "title": "Portfolio",
+            "description": "HTML, CSS",
+            "url": "https://shakerbillo.github.io/emmanuelgyan-portfolio-site/"
+        },
+        {
+            "cover": "/portfolio/portfolio1/expensetracker.png",
+            "title": "Expense Tracker",
+            "description": "HTML, CSS, JS, REACT",
+            "url": "https://shakerbillo.github.io/demoexpensetracker/"
+        },
+
+        {
+            "cover": "/portfolio/portfolio1/weatherapp.png",
+            "title": "Weather App",
+            "description": "HTML, CSS, JS, REACT",
+            "url": "https://shakerbillo.github.io/weatherapp/"
+        },
+
+        {
+            "cover": "/portfolio/portfolio1/movieapp.png",
+            "title": "Movie App",
+            "description": "HTML, CSS, JS, REACT",
+            "url": "https://shakerbillo.github.io/movieapp/"
+        }
+    ]
+}
